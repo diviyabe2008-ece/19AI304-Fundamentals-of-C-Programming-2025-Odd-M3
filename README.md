@@ -101,7 +101,9 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 ```
-int main(){ int a[10][10];
+int main()
+{
+ int a[10][10];
 
 int r, c, i, j, k;
 
